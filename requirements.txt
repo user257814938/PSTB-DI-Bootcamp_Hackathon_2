@@ -1,10 +1,10 @@
 streamlit==1.36.0
-sentence-transformers==3.0.1
-faiss-cpu==1.8.0
+PyPDF2==3.0.1
 pymupdf==1.24.6
 python-docx==1.1.2
 transformers==4.41.2
+sentence-transformers==3.0.1
+numpy==1.26.4
+faiss-cpu==1.8.0
 scikit-learn==1.5.1
 evaluate==0.4.2
-PyPDF2==3.0.1
-numpy==1.26.4
