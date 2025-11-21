@@ -1,16 +1,10 @@
-Liste des dépendances nécessaires pour exécuter le projet.
-
-```
-streamlit
-pymupdf
-pypdf2
-python-docx
-sentence-transformers
-transformers
-faiss-cpu
-scikit-learn
-evaluate
-numpy
-pandas
-tqdm
-```
+streamlit==1.36.0
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0
+pymupdf==1.24.6
+python-docx==1.1.2
+transformers==4.41.2
+scikit-learn==1.5.1
+evaluate==0.4.2
+PyPDF2==3.0.1
+numpy==1.26.4
